@@ -1,0 +1,3 @@
+# Dynamic Testing Task
+- At first the specs file wouldn't run because of syntax errors in the card_game file, so I corrected these
+- I then got errors for all of my tests because CardGame had no initialize method, and I needed to initialize it with an array of cards to set up my tests. I added the initialize method, and then corrected all of the errors in the testing file, which made them pass the tests.
